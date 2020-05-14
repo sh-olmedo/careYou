@@ -1,0 +1,183 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.984313725490196,
+    "green": 0.9725490196078431,
+    "red": 0.9647058823529412
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54FE88EC-04B5-4F40-97D6-690A534BE793",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 1676,
+    "y": -448
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "133DA7D7-0251-4D68-AC87-C7228F009EEB"
+    },
+    {
+      "class": "text",
+      "id": "6C8FAA1E-E68F-45F2-9219-615914F62BD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1DA7B49-9FB0-4D2D-82DB-2DBCB37370C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C1E9264-30DF-4FF0-BFDC-F316FA4D81A4"
+    },
+    {
+      "class": "oval",
+      "id": "B043B720-CC00-456E-A6C0-4DD0CAB19592"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9A880C1-DF68-4D9F-93B5-84CD6765FAE9"
+    },
+    {
+      "class": "text",
+      "id": "FD8012A7-EF0A-48F8-B4DD-929B57A92B48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DDEAE2A-9CA1-48A4-94C0-0BDFA8107DF5"
+    },
+    {
+      "class": "text",
+      "id": "46CD298B-6D94-4506-B722-77B408371420"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3FF52BB-374B-446B-86AE-A8BFAF57E2FB"
+    },
+    {
+      "class": "text",
+      "id": "2ABE3C2F-59C5-466D-973D-D4B57CF6ED2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1DAD55C-EA19-4357-8C64-2FD9BD55C4F6"
+    },
+    {
+      "class": "text",
+      "id": "04CAB52D-79D5-464A-95BC-0F1666249C4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFC68689-B326-4286-BF21-41C1CD174CA9"
+    },
+    {
+      "class": "text",
+      "id": "38EDEC6C-0FB0-4F61-9DF4-C8653CB7E563"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFC88F94-9345-4FFF-9C1B-61D674949BFA"
+    }
+  ],
+  "name": "Help",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone 11 Pro",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "623F3954-E8B4-43AA-8DE3-A1A4234F2648",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
